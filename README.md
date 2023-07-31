@@ -1,6 +1,6 @@
 # cubit_payload
 
-A new Flutter project.
+Flutter - Theme Cubit Payload project.
 
 ## Getting Started
 
